@@ -197,3 +197,15 @@ body main section div a {
     margin: 0 140px 50px 100px;
     border-radius: 16px;
 }
+
+/* footer styles */
+footer div p {
+    font-size: 20px;
+    font-weight: 800;
+}
+
+footer {
+    margin: 0 140px 50px 100px;
+    display: flex;
+    justify-content: space-between;
+}
