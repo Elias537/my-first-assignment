@@ -30,11 +30,6 @@
     font-weight: 600;
 }
 
-.bg-secondary {
-    /* background-color: #0D1321;
-    opacity: 100%; */
-}
-
 .center {
     align-items: center;
 }
@@ -147,6 +142,48 @@ body main section div h1 {
 body main section div p {
     text-align: center;
 }
-.video{
-    margin:0 350px 0 350px;
+
+.video {
+    margin: 0 350px 0 350px;
+}
+
+/* skills styles */
+body main .skills-container {
+    justify-content: left;
+}
+
+.target-skills {
+    width: 1140px;
+    margin: 0 140px 0 140px;
+}
+
+.skills-container {
+    display: flex;
+    gap: 25px;
+    margin-bottom: 120px;
+}
+
+.skill-column1 {
+    width: 364px;
+    height: 300px;
+    padding: 40px;
+}
+
+.skill-column2 {
+    width: 364px;
+    height: 300px;
+    padding: 40px;
+
+}
+
+.skill-column3 {
+    width: 364px;
+    height: 300px;
+    padding: 40px;
+
+}
+
+body main section div a {
+    font-weight: 800;
+    color: black;
 }
