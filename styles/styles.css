@@ -1,0 +1,89 @@
+.azeret-mono-normal {
+    font-family: "Azeret Mono", monospace;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+
+/* shared styles */
+.text-group-sixteen {
+    font-size: 16px;
+    color: #0D1321;
+    font-weight: 400;
+}
+
+.txt-grp-thtwo {
+    font-size: 32px;
+    font-weight: bold;
+    color: #0D1321;
+}
+
+.txt-grp-tfour {
+    font-size: 24px;
+    font-weight: 800;
+    color: #0D1321;
+    opacity: 70%;
+}
+
+.txt-grp-twnty {
+    font-size: 20px;
+    color: #0D1321;
+    font-weight: 600;
+}
+
+.bg-secondary {
+    /* background-color: #0D1321;
+    opacity: 100%; */
+}
+
+.center {
+    align-items: center;
+}
+
+
+/* header styles */
+
+.hero-bg {
+    background-image: url(../assets/Hero-bg.png);
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    margin-top: 36px;
+    max-width: 100%;
+    max-height: 600px;
+    overflow: hidden;
+}
+
+.first-page {
+    /* padding: 26px 221px 45px 221px; */
+    text-align: center;
+}
+
+.hero-title {
+    font-size: 38px;
+    font-weight: 800;
+    color: #0D1321;
+}
+
+.hero-img {
+    margin: 16px 358px 34px 378px;
+}
+
+.txt-btn {
+    max-width: 998px;
+    max-height: 600px;
+    text-align: center;
+    margin: 0px 258px 341px 278px;
+}
+
+header button a {
+    padding: 21px 24px 21px 24px;
+    background-color: #0D1321;
+    font-size: 20px;
+    border-radius: 8px;
+    border: none;
+    color: rgb(248, 239, 239);
+}
+
+header button {
+    border: none;
+}
