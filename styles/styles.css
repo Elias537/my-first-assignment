@@ -187,3 +187,13 @@ body main section div a {
     font-weight: 800;
     color: black;
 }
+
+/* last bg styles */
+.last-bg {
+    background-image: url(../assets/handshake.jpg);
+    width: 1140px;
+    height: 313px;
+    background-position: 100% 100%;
+    margin: 0 140px 50px 100px;
+    border-radius: 16px;
+}
