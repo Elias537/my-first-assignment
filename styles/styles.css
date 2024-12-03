@@ -132,3 +132,21 @@ button a {
     text-decoration: none;
     color: #0D1321;
 }
+
+/* my inspiration section styles  */
+body main .my-inspiration {
+    width: 1140px;
+    margin: 0 140px 0 140px;
+    text-align: justify;
+}
+
+body main section div h1 {
+    text-align: center;
+}
+
+body main section div p {
+    text-align: center;
+}
+.video{
+    margin:0 350px 0 350px;
+}
